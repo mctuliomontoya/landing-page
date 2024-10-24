@@ -2,7 +2,9 @@
   "name": "retroracle",
   "version": "2.0.0",
   "description": "https://github.com/custom-start-page/retroracle",
-  "dependencies": {},
+  "dependencies": {
+    "vercel": "^37.12.1"
+  },
   "devDependencies": {
     "custom-start-page-tool": "0.0.3"
   },
